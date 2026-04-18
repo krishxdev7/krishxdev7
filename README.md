@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Krish 👋  <br>B.Tech undergraduate in Computer Science (AI & ML).  <br><br>Passionate about building intelligent systems and solving real-world problems using AI.  <br>Currently exploring Machine Learning, Data Structures, and full-stack development.  <br>Always learning, always building.  <br><br>
+Hi, I'm Krish 👋  <br>B.Tech undergraduate in Computer Science (AI & ML).  <br><br>Passionate about building intelligent systems and solving real-world problems.  <br>Currently exploring Machine Learning, Data Structures, and full-stack development.  <br>Always learning, always building.  <br><br>
 
 
 ## 🌐 Socials:
