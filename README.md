@@ -37,4 +37,8 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 
 <br>
 
-[![Navya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishxdev7&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishxdev7&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+![mario coding](assets/pixel-art-mario-codemaxxing.gif)
