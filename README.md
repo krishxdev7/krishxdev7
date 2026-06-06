@@ -6,7 +6,7 @@
 I'm a passionate developer and tech enthusiast exploring the world of **full-stack development**, **AI/ML**, and **software engineering**. I love building projects that solve real-world problems and continuously learning new technologies.  
 
 -  I'm currently working on **a Full Stack project**
--  I'm currently learning **Node.js**
+-  I'm currently learning **Mern Stack**
 -  I'm looking to collaborate on **open source projects**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,8 +23,8 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 
 <!-- FIXED ICON ALIGNMENT -->
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,css,figma,git,html,java,js,blender,nodejs,py,react,tailwind,ts&perline=12" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,figma,blender,py,expressjs,react,nodejs,bootstrap,tailwind,aws,docker,mongodb,kubernetes,ts&perline=12" />
+</p>  
 
 <br>
 
