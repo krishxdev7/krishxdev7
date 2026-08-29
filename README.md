@@ -24,7 +24,7 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 <!-- FIXED ICON ALIGNMENT -->
 <p align="left">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,fastapi,vite,bootstrap,tailwind,threejs,postgresql,mysql,flask,mongodb,redis,aws,docker,kubernetes,linux,nginx,terraform,githubactions,sklearn,pytorch,tensorflow,git,github,postman,figma,blender&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,fastapi,vite,tailwind,postgresql,mysql,sqlite,flask,mongodb,django,aws,docker,kubernetes,linux,githubactions,sklearn,pytorch,tensorflow,git,github,npm,figma,blender&perline=12" />
   </p>
   <br>
 </p>
