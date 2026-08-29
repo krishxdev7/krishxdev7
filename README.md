@@ -23,10 +23,11 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 
 <!-- FIXED ICON ALIGNMENT -->
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,figma,blender,py,expressjs,react,nodejs,bootstrap,tailwind,aws,docker,mongodb,kubernetes,ts&perline=12" />
-</p>  
-
-<br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,fastapi,vite,bootstrap,tailwind,threejs,postgresql,mysql,flask,mongodb,redis,aws,docker,kubernetes,linux,nginx,terraform,githubactions,sklearn,pytorch,tensorflow,git,github,postman,figma,blender&perline=12" />
+  </p>
+  <br>
+</p>
 
 <h2>🔥 Stats:</h2>
 <p align="center">
