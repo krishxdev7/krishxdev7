@@ -25,9 +25,7 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
   <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,react,nodejs,express,mongodb,fastapi,flask,mysql,aws,docker,sklearn,pytorch,matlab&perline=10" />
 </p>
 
-<p align="left">
-  <img src="./assets/output/header-github-stats.svg" height="50%" alt="GITHUB STATS"/>
-</p>
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/krishxdev7/krishxdev7/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 </p>
