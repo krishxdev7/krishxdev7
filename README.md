@@ -22,7 +22,7 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,react,nodejs,express,mongodb,fastapi,flask,mysql,aws,docker,sklearn,pytorch,matlab&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,vite,mongodb,express,react,nodejs,fastapi,flask,mysql,aws,docker,sklearn,pytorch,matlab&perline=10" />
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
