@@ -21,12 +21,8 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- FIXED ICON ALIGNMENT -->
-<p align="left">
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,react,nextjs,nodejs,express,fastapi,vite,tailwind,postgresql,mysql,sqlite,flask,mongodb,django,aws,docker,kubernetes,linux,githubactions,sklearn,pytorch,tensorflow,git,github,npm,figma,blender,matlab,autocad&perline=12" />
-  </p>
-  <br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,react,nodejs,express,mongodb,fastapi,flask,mysql,aws,docker,sklearn,pytorch,matlab&perline=10" />
 </p>
 
 <p align="left">
