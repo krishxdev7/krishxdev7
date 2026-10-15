@@ -29,16 +29,22 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
   <br>
 </p>
 
-<h2>🔥 Stats:</h2>
+<p align="left">
+  <img src="./assets/output/header-github-stats.svg" height="50%" alt="GITHUB STATS"/>
+</p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishxdev7&theme=tokyonight" />
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=krishxdev7&theme=tokyonight&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishxdev7&theme=tokyonight" />
+    <img src="https://raw.githubusercontent.com/krishxdev7/krishxdev7/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 </p>
 
-<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/krishxdev7/krishxdev7/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%"/>
+    <img src="https://raw.githubusercontent.com/krishxdev7/krishxdev7/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%"/>
+</p>
 
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishxdev7&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/krishxdev7/krishxdev7/output/profile-summary-card-output/github_dark/3-stats.svg" width="49%"/>
+    <img src="https://raw.githubusercontent.com/krishxdev7/krishxdev7/output/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%"/>
+</p>
 
 <br>
 
